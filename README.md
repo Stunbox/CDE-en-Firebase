@@ -1,2 +1,2 @@
-# Examen-CDE-Firebase
+# CDE-Firebase
 Creado por Carlos Aguero
